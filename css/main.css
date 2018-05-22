@@ -1965,7 +1965,7 @@ body {
   }
 }
 
-.p1-gradient-bg, .primary-btn:after, .banner-area, .featured-area, .story-area, .footer-social a:after {
+.p1-gradient-bg, .primary-btn:after, .featured-area, .story-area, .footer-social a:after {
   background-image: -moz-linear-gradient(0deg, #3e69fe 0%, #4cd4e3 100%);
   background-image: -webkit-linear-gradient(0deg, #3e69fe 0%, #4cd4e3 100%);
   background-image: -ms-linear-gradient(0deg, #3e69fe 0%, #4cd4e3 100%);
