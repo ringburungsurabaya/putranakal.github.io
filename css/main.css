@@ -1970,7 +1970,7 @@ body {
   background-image: -webkit-linear-gradient(0deg, #3e69fe 0%, #4cd4e3 100%);
   background-image: -ms-linear-gradient(0deg, #3e69fe 0%, #4cd4e3 100%);
 }
-.banner-area{background-color:#7195fd;}
+.banner-area{background-color:#81ecec;}
 .p1-gradient-color, .single-work-process .work-icon-box span, .single-feature .primary-btn:hover span, .single-remark .primary-btn span, .story-area .primary-btn span, .contact-form .primary-btn span {
   background: -webkit-linear-gradient(0deg, #3e69fe, #4cd4e3);
   -webkit-background-clip: text;
